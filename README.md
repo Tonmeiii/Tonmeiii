@@ -6,11 +6,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓-Computer%20Engineering%20Student-FFB6C1?style=for-the-badge&labelColor=FFE4EC" />
-  <img src="https://img.shields.io/badge/💻-Web%20Developer-C7CEEA?style=for-the-badge&labelColor=E8EAFF" />
+  <img src="https://img.shields.io/badge/💻-Web%20Developer-D3A9FF?style=for-the-badge&labelColor=EEDCFF" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1CC,100:C7CEEA&height=120&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FB1,100:E1A9FF&height=120&section=header" width="100%" />
 </p>
 
 ---
@@ -99,11 +99,11 @@
   <a href="mailto:yurarat1210@gmail.com">
     <img src="https://img.shields.io/badge/Email-yurarat1210%40gmail.com-FFC1CC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF8FB1" />
   </a>
-  <img src="https://img.shields.io/badge/Phone-098--167--1979-C7CEEA?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=A6B1E1" />
+  <img src="https://img.shields.io/badge/Phone-098--167--1979-C7CEEA?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=EEDCFF" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7CEEA,100:FFC1CC&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FB1,100:E1A9FF&height=100&section=footer" width="100%" />
 </p>
 
 <p align="center">
