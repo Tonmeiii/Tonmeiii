@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF3B0,50:FFE878,100:F5C842&height=150&section=header&text=Welcome%20to%20my%20little%20world!&fontSize=25&fontColor=79551D&fontAlignY=40" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF3B0,50:FFE878,100:F5C842&height=120&section=header" width="100%" />
 </p>
 
 <p align="center">
@@ -115,7 +115,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C842,50:FFE878,100:FFF3B0&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C842,50:FFE878,100:FFF3B0&height=100&section=footer" width="100%" />
 </p>
 
 <p align="center">
